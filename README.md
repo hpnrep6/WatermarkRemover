@@ -6,7 +6,7 @@
 
 1. Make sure Java is installed 
 2. Download the .jar file at:
-https://github.com/hpnrep6/WatermarkAdderAndRemover/raw/master/WatermarkRemove/out/artifacts/WatermarkRemove_jar/WatermarkRemove.jar
+https://github.com/hpnrep6/ImageWatermarkRemover/releases/tag/0.1
 3. Navigate to the directory the .jar file is saved in and run the .jar file with ' java -jar WatermarkRemove.jar ' in terminal.
 
 ## Description
