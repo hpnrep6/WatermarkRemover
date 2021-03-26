@@ -1,5 +1,7 @@
 # Watermark Adder And Remover
 
+![Screenshot of application](https://github.com/hpnrep6/ImageWatermarkRemover/blob/master/screenshot.png?raw=true)
+
 ## How to run
 
 ### Linux / MacOS
